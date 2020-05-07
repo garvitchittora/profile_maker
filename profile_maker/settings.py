@@ -55,7 +55,6 @@ ROOT_URLCONF = 'profile_maker.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [r'C:\Users\garvi\projects\profile_maker\core\template'],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
